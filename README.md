@@ -44,6 +44,16 @@ Whilst developing a mobile commerce website there was the need for a product gal
 
 ## Installation
 
+### With [Bower](https://bower.io)
+````
+bower install https://github.com/tspgroup/bootstrap-nav-tab-scrollable    
+````
+
+### Manually
+Manually download `bootstrap-nav-tab-scrollable.js` and `bootstrap-nav-tab-scrollable.css`.
+
+### Including the plugin
+
 Simply apply the stylesheet and the js to your project and import it on your HTMl as such:
 On the header the StyleSheet
 ````html
@@ -54,10 +64,6 @@ Before closing the body import and execute:
 ````html
 <!-- Import the component -->
 <script src="bootstrap-nav-tab-scrollable.js"></script>
-<!-- Execute the plugin -->
-<script type="text/JavaScript">
-	$("#js_image_selection").horizontalTabs();
-</script>    
 ````
 
 ## API Reference
