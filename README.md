@@ -46,7 +46,7 @@ Whilst developing a mobile commerce website there was the need for a product gal
 
 ### With [Bower](https://bower.io)
 ````
-bower install https://github.com/tspgroup/bootstrap-nav-tab-scrollable    
+bower install https://github.com/tspgroup/bootstrap-nav-tab-scrollable.git    
 ````
 
 ### Manually
