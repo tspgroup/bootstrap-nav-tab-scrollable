@@ -1,4 +1,4 @@
-# bootstrap-nav-tab-scrollable
+# Bootstrap Scrollable Navigation Tabs (*bootstrap-nav-tab-scrollable*)
 
 
 ## Synopsis
@@ -9,7 +9,7 @@ Works with touch events, example image: [http://imgur.com/3y4qoje](http://imgur.
 
 
 ## Credits
-This is a fork from the original script by Lucas Lazaro: [https://github.com/LucasLazaro/bootstrap-nav-tab-scrollable](https://github.com/LucasLazaro/bootstrap-nav-tab-scrollable)
+This is a fork from the original script by Lucas Lazaro: <https://github.com/LucasLazaro/bootstrap-nav-tab-scrollable>
 
 
 ## Code Example
@@ -70,6 +70,11 @@ Call it after the element was rendered.
      $("#ID_OF_ELEMENT").horizontalTabs();
 ````
 
+## Trigger adjustment
+The script automatically adjust the scroller when the window size changes. The adjustment can also be triggered manually:
+`````javascript
+     $("#ID_OF_ELEMENT").horizontalTabs('adjust');
+````
 
 ## Contributors
 
