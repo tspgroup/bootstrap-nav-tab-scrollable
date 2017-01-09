@@ -5,7 +5,11 @@
 
 Simple horizontally scrollable nav tab for Bootstrap 3.0 (good for mobile sites), i.e. for product images on m-commerce. 
 
-Works with touch events, example image: [http://imgur.com/3y4qoje](http://imgur.com/3y4qoje) 
+Works with touch events, example image: [http://imgur.com/3y4qoje](http://imgur.com/3y4qoje)
+
+
+## Credits
+This is a fork from the original script by Lucas Lazaro: [https://github.com/LucasLazaro/bootstrap-nav-tab-scrollable](https://github.com/LucasLazaro/bootstrap-nav-tab-scrollable)
 
 
 ## Code Example
@@ -75,7 +79,9 @@ Feel free to include any features, issues, bug fixes, among other contributions,
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Lucas Lazaro
+Copyright (c) 2017 TSP Group
+
+For the the original portion of this software (the untouched part of the forked code base): Copyright (c) 2015 Lucas Lazaro
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
